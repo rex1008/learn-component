@@ -55,8 +55,12 @@ import ReactDOM from 'react-dom/client';
 
 // import App from './12_组件内容补充/01_ref转发'
 
-import './css/index.css'
-import App from './12_组件内容补充/02_portals的使用'
+// import './css/index.css'
+// import App from './12_组件内容补充/02_portals的使用'
+
+// import App from './12_组件内容补充/03_fragments的使用'
+
+import App from './12_组件内容补充/04_strictMode的使用'
 
 
 const root = ReactDOM.createRoot( document.getElementById('root'));
